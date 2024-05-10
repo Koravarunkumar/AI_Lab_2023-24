@@ -30,8 +30,10 @@ print("Following is the Breadth-First Search") bfs(visited, graph, '1') # Functi
 
 
 
-### Output:
-Screenshot 2024-02-17 153725
+###output:
+
+![305637218-a3595fa8-a65d-45c3-aec9-1639e32b0293](https://github.com/Koravarunkumar/AI_Lab_2023-24/assets/164622370/ceb4434b-110a-4ad8-b372-53de72bdf191)
+
 
 
 ### Result:
